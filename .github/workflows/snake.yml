@@ -20,13 +20,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Cyan Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ox-Himel
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2300D9FF&color_dots=%23ebedf0,%23c7f5fb,%238ae7f4,%2342d2e9,%2300a8cc
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300D9FF&color_dots=%23161b22,%23073642,%23075b70,%230b91b8,%2300d9ff
 
       - name: Publish Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
