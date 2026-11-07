@@ -5,6 +5,10 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ox-Himel&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Welcome+to+my+GitHub;Telegram+Automation+%26+Tools;Python+%7C+Telethon+%7C+PySide6;I+love+bugs.+Just+not+in+my+code!" />
 
 <br/><br/>
