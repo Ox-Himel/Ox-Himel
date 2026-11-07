@@ -11,13 +11,17 @@ on:
     branches:
       - main
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate Cyan Snake Animation

@@ -1,87 +1,40 @@
-
 <div align="center">
 
-<img src="./HIMEL-exe-animated-banner.gif" alt="HIMEL.exe Animated Banner" width="100%" />
+<img src="./HIMEL-exe-animated-banner.gif" alt="HIMEL.exe — Telegram automation, Python and Telethon" width="720" />
 
-<br/><br/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=1400&amp;color=00D9FF&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;lines=Hello%2C+world.+I%27m+HIMEL.exe.;Python.+Telegram.+Automation.;Small+tools.+Thoughtful+solutions." alt="Hello, world. I'm HIMEL.exe. Python, Telegram and automation." width="560" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Welcome+to+my+GitHub;Telegram+Automation+%26+Tools;Python+%7C+Telethon+%7C+PySide6;I+love+bugs.+Just+not+in+my+code!" />
-
-<br/><br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Ox_Himel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Ox_Himel)
-[![GitHub](https://img.shields.io/badge/GitHub-Ox--Himel-181717?style=for-the-badge&logo=github)](https://github.com/Ox-Himel)
+<a href="https://t.me/Ox_Himel"><img src="https://img.shields.io/badge/Telegram-%40Ox__Himel-0D1117?style=for-the-badge&amp;logo=telegram&amp;logoColor=00D9FF" alt="Message Ox_Himel on Telegram" /></a>
+<a href="https://github.com/Ox-Himel"><img src="https://img.shields.io/badge/GitHub-Ox--Himel-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=00D9FF" alt="Explore Ox-Himel on GitHub" /></a>
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I'm Himel. I build Telegram tools and automation with **Python** and **Telethon**, and explore **APIs** and **desktop applications** with **PySide6**.
 
-- 🚀 Building Telegram Tools & Automation.
-- 🐍 Working with Python and Telethon.
-- ⚙️ Interested in APIs and Desktop Applications.
-- 🌍 Community Building & Digital Ecosystems.
-- 🐛 I love bugs. Just not in my code.
-- ⚡ Debugging is my cardio.
+I like turning repetitive tasks into useful tools—and connecting people through the things I build.
 
----
+> I love bugs. Just not in my code.
 
-## 🛠️ Tech Stack
+## Tech stack
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&amp;theme=dark" alt="Python, Git, GitHub and Visual Studio Code" width="208" height="48" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<p>
+  <img src="https://img.shields.io/badge/Telethon-0D1117?style=flat-square&amp;logo=telegram&amp;logoColor=00D9FF" alt="Telethon" />
+  <img src="https://img.shields.io/badge/PySide6-0D1117?style=flat-square&amp;logo=qt&amp;logoColor=00D9FF" alt="PySide6" />
+  <img src="https://img.shields.io/badge/API_integration-0D1117?style=flat-square" alt="API integration" />
+</p>
 
-<br/><br/>
-
-![Telethon](https://img.shields.io/badge/Telethon-Python-blue?style=flat-square)
-![PySide6](https://img.shields.io/badge/PySide6-Desktop_Development-41CD52?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-Integration-00D9FF?style=flat-square)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+## Contributions, in motion
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake-dark.svg" />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake.svg" />
-
-  <img
-    alt="HIMEL.exe Contribution Snake"
-    src="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake.svg"
-    width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ox-Himel/Ox-Himel/output/github-contribution-grid-snake.svg" alt="Animated cyan snake tracing my GitHub contribution grid" width="100%" />
 </picture>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Ox_Himel)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Ox-Himel)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Think Deep. Build Smart. Scale Big."
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
