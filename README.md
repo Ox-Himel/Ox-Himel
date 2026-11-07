@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./HIMEL.exe.jpg" alt="HIMEL.exe Cover Photo" width="100%" />
+<img src="./HIMEL-exe-animated-banner.gif" alt="HIMEL.exe Animated Banner" width="100%" />
 
 <br/><br/>
 
