@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+  <title id="title">HIMEL.exe — Midnight Console</title>
+  <desc id="desc">Small tools. Less repetition. Python, Telegram and automation. An animated terminal introduces Himel's Python, Telethon and PySide6 toolkit.</desc>
+  <defs><linearGradient id="scan"><stop stop-color="#45e1ed" stop-opacity="0"/><stop offset=".5" stop-color="#45e1ed"/><stop offset="1" stop-color="#45e1ed" stop-opacity="0"/></linearGradient><clipPath id="track"><rect x="539" y="355" width="290" height="3"/></clipPath></defs>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Consolas,'Liberation Mono',monospace}.muted{fill:#9ba9bb}.cyan{fill:#45e1ed}
+    .cursor{animation:blink 1.2s steps(1) infinite}.scan{animation:sweep 3.6s ease-in-out infinite}
+    @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}@keyframes sweep{from{transform:translateX(-110px)}to{transform:translateX(300px)}}
+    @media(prefers-reduced-motion:reduce){.cursor,.scan{animation:none}}
+  </style>
+  <rect width="900" height="430" rx="16" fill="#0b1018"/>
+  <rect x=".5" y=".5" width="899" height="429" rx="15.5" fill="none" stroke="#283344"/>
+  <text x="36" y="43" fill="#e8eef7" font-size="20" font-weight="bold">H<tspan class="cyan"> / </tspan>EXE</text>
+  <text x="864" y="42" text-anchor="end" class="mono muted" font-size="12">Ox-Himel / README.md</text>
+  <path d="M36 65H864" stroke="#25303e"/>
+  <circle cx="41" cy="122" r="4" fill="#45e1ed"/>
+  <text x="55" y="126" class="mono cyan" font-size="12" letter-spacing="1.4">PYTHON · TELEGRAM · AUTOMATION</text>
+  <text x="36" y="194" fill="#e8eef7" font-size="49" font-weight="bold" letter-spacing="-2">Small tools.</text>
+  <text x="36" y="252" class="cyan" font-size="49" font-weight="bold" letter-spacing="-2">Less repetition.</text>
+  <text x="38" y="302" class="muted" font-size="17">I'm Himel. I build Telegram tools with Python</text>
+  <text x="38" y="330" class="muted" font-size="17">and Telethon, and explore desktop apps.</text>
+  <text x="38" y="386" class="mono cyan" font-size="13">&gt; ideas into useful tools<tspan class="cursor">_</tspan></text>
+  <rect x="515" y="99" width="337" height="292" rx="12" fill="#101924" stroke="#344353"/>
+  <path d="M515 137H852" stroke="#2a3645"/>
+  <g fill="#657b91"><circle cx="535" cy="119" r="3"/><circle cx="548" cy="119" r="3"/><circle cx="561" cy="119" r="3"/></g>
+  <text x="833" y="123" text-anchor="end" class="mono muted" font-size="11">himel.exe</text>
+  <text x="539" y="173" class="mono muted" font-size="13"><tspan class="cyan">~</tspan> $ whoami</text>
+  <text x="539" y="212" fill="#edf7ff" class="mono" font-size="29">HIMEL<tspan class="cyan">.exe</tspan></text>
+  <rect class="cursor" x="704" y="189" width="9" height="26" fill="#45e1ed"/>
+  <text x="539" y="241" class="mono" fill="#8094a8" font-size="12">// a little less manual work.</text>
+  <path d="M539 261H829" stroke="#273647"/>
+  <g class="mono" font-size="13"><text x="539" y="287" class="cyan">language<tspan x="647" fill="#647b94">→</tspan><tspan x="674" fill="#cbd7e5">Python</tspan></text><text x="539" y="313" class="cyan">automation<tspan x="647" fill="#647b94">→</tspan><tspan x="674" fill="#cbd7e5">Telethon</tspan></text><text x="539" y="339" class="cyan">desktop<tspan x="647" fill="#647b94">→</tspan><tspan x="674" fill="#cbd7e5">PySide6</tspan></text></g>
+  <rect x="539" y="355" width="290" height="3" fill="#203344"/>
+  <g clip-path="url(#track)"><rect class="scan" x="539" y="355" width="110" height="3" fill="url(#scan)"/></g>
+</svg>
