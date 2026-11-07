@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
+  <title id="title">The automation loop</title><desc id="desc">Illustrated workflow: Python to Telethon to Telegram. Cyan pulses show the flow between tools; this is an illustration, not a live status display.</desc>
+  <style>text{font-family:Consolas,'Liberation Mono',monospace}.pulse{animation:travel 3s linear infinite}.later{animation-delay:1.5s}@keyframes travel{0%{transform:translateX(0);opacity:0}15%,80%{opacity:1}100%{transform:translateX(135px);opacity:0}}@media(prefers-reduced-motion:reduce){.pulse{animation:none;opacity:.7}}</style>
+  <rect width="900" height="210" rx="14" fill="#ffffff"/><rect x=".5" y=".5" width="899" height="209" rx="13.5" fill="none" stroke="#e3e8ee"/>
+  <text x="32" y="35" fill="#536273" font-size="12" letter-spacing="1">THE AUTOMATION LOOP</text><text x="868" y="35" text-anchor="end" fill="#607080" font-size="11">Illustrated workflow</text>
+  <path d="M232 111H367M533 111H668" stroke="#d0d7de"/>
+  <circle class="pulse" cx="232" cy="111" r="4" fill="#087e8b"/><circle class="pulse later" cx="533" cy="111" r="4" fill="#087e8b"/>
+  <g fill="#f6f8fa" stroke="#d0d7de"><rect x="64" y="80" width="168" height="62" rx="8"/><rect x="367" y="80" width="166" height="62" rx="8"/><rect x="668" y="80" width="168" height="62" rx="8"/></g>
+  <g fill="#1f2937" font-size="18" text-anchor="middle"><text x="148" y="118">Python</text><text x="450" y="118">Telethon</text><text x="752" y="118">Telegram</text></g>
+  <text x="450" y="181" fill="#536273" font-size="12" text-anchor="middle">/* I love bugs. Just not in my code. */</text>
+</svg>

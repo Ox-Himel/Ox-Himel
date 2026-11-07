@@ -1,6 +1,9 @@
 <!-- Midnight Console: edit profile text here; artwork lives in assets/. -->
 <div align="center">
-  <img src="./assets/midnight-console.svg" alt="HIMEL.exe — Small tools. Less repetition. Python, Telegram and automation." width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/midnight-console.svg" />
+    <img src="./assets/midnight-console-light.svg" alt="HIMEL.exe — Small tools. Less repetition. Python, Telegram and automation." width="100%" />
+  </picture>
 
   <p>
     <a href="https://t.me/Ox_Himel"><img src="https://img.shields.io/badge/Telegram-%40Ox__Himel-0B1018?style=for-the-badge&amp;logo=telegram&amp;logoColor=45E1ED" alt="Connect with Ox_Himel on Telegram" /></a>
@@ -25,4 +28,7 @@ I'm **Himel**. I build Telegram tools and automation with **Python** and **Telet
 
 ### `02 / the automation loop`
 
-<img src="./assets/automation-flow.svg" alt="Python → Telethon → Telegram. I love bugs. Just not in my code." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/automation-flow.svg" />
+  <img src="./assets/automation-flow-light.svg" alt="Python → Telethon → Telegram. I love bugs. Just not in my code." width="100%" />
+</picture>
