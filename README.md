@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="HIMEL.exe - Small tools. Less repetition. Python, Telethon, PySide6 and automation." width="100%" />
+<img src="./header.svg" alt="HIMEL.exe - Small tools. Less repetition. Python, Telethon, PySide6 and automation." width="100%" />
 
 <br />
 
@@ -12,17 +12,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=1000&amp;color=45E1ED&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Building+Telegram+tools+that+save+hours;One+panel.+Many+accounts.+Zero+repetition.;Desktop+apps+with+PySide6;Logic+in+one+file.+UI+in+another." alt="Typing animation" />
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: whoami - Himel, independent developer. Stack: Python, Telethon, PySide6, API integration." width="88%" />
+  <img src="./terminal.svg" alt="Terminal: whoami - Himel, independent developer. Stack: Python, Telethon, PySide6, API integration." width="88%" />
 </div>
 
 <br />
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `01 / about`
 
@@ -34,7 +34,7 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 - **Clean architecture**: logic and UI live in separate modules, always
 - **API integration** whenever a tool needs to talk to the outside world
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `02 / toolkit`
 
@@ -56,15 +56,15 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `03 / the automation loop`
 
 <div align="center">
-  <img src="./assets/pipeline.svg" alt="Python to Telethon to Telegram to Automation. I love bugs. Just not in my code." width="100%" />
+  <img src="./pipeline.svg" alt="Python to Telethon to Telegram to Automation. I love bugs. Just not in my code." width="100%" />
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `04 / what I build`
 
@@ -79,7 +79,7 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 <a href="https://github.com/Ox-Himel/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ox-Himel&amp;repo=REPO_NAME&amp;theme=transparent&amp;hide_border=true&amp;title_color=45E1ED&amp;icon_color=45E1ED&amp;text_color=C9D1D9" /></a>
 -->
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `05 / stats`
 
@@ -92,7 +92,7 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `06 / let's talk`
 
