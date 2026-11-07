@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./header.svg" alt="HIMEL.exe - Small tools. Less repetition. Python, Telethon, PySide6 and automation." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header.svg" />
+  <img src="./header-light.svg" alt="HIMEL.exe - Small tools. Less repetition. Python, Telethon, PySide6 and automation." width="100%" />
+</picture>
 
 <br />
 
@@ -8,21 +11,30 @@
 <a href="https://github.com/Ox-Himel?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Ox--Himel-0B1018?style=for-the-badge&amp;logo=github&amp;logoColor=45E1ED" alt="GitHub repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=Ox-Himel&amp;label=Visitors&amp;color=45E1ED&amp;labelColor=0B1018&amp;style=for-the-badge" alt="Profile visitors" />
 
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=1000&amp;color=45E1ED&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Building+Telegram+tools+that+save+hours;One+panel.+Many+accounts.+Zero+repetition.;Desktop+apps+with+PySide6;Logic+in+one+file.+UI+in+another." alt="Typing animation" />
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 </div>
 
 <div align="center">
-  <img src="./terminal.svg" alt="Terminal: whoami - Himel, independent developer. Stack: Python, Telethon, PySide6, API integration." width="88%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./terminal.svg" />
+  <img src="./terminal-light.svg" alt="Terminal: whoami - Himel, independent developer. Stack: Python, Telethon, PySide6, API integration." width="88%" />
+</picture>
 </div>
 
 <br />
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `01 / about`
 
@@ -34,7 +46,10 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 - **Clean architecture**: logic and UI live in separate modules, always
 - **API integration** whenever a tool needs to talk to the outside world
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `02 / toolkit`
 
@@ -56,15 +71,24 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 
 </div>
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `03 / the automation loop`
 
 <div align="center">
-  <img src="./pipeline.svg" alt="Python to Telethon to Telegram to Automation. I love bugs. Just not in my code." width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./pipeline.svg" />
+  <img src="./pipeline-light.svg" alt="Python to Telethon to Telegram to Automation. I love bugs. Just not in my code." width="100%" />
+</picture>
 </div>
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `04 / what I build`
 
@@ -79,20 +103,26 @@ I like small, sharp tools: one job, done well, with the repetitive part removed.
 <a href="https://github.com/Ox-Himel/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ox-Himel&amp;repo=REPO_NAME&amp;theme=transparent&amp;hide_border=true&amp;title_color=45E1ED&amp;icon_color=45E1ED&amp;text_color=C9D1D9" /></a>
 -->
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `05 / stats`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ox-Himel&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1018&amp;title_color=45E1ED&amp;icon_color=45E1ED&amp;text_color=C9D1D9&amp;ring_color=45E1ED" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox-Himel&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1018&amp;title_color=45E1ED&amp;text_color=C9D1D9" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ox-Himel&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=2BB5CC&amp;icon_color=2BB5CC&amp;text_color=8B98A9&amp;ring_color=2BB5CC" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox-Himel&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=2BB5CC&amp;text_color=8B98A9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Ox-Himel&amp;theme=dark&amp;hide_border=true&amp;background=0B1018&amp;ring=45E1ED&amp;fire=45E1ED&amp;currStreakLabel=45E1ED&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B98A9" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Ox-Himel&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=2BB5CC&amp;fire=2BB5CC&amp;currStreakLabel=2BB5CC&amp;sideLabels=8B98A9&amp;currStreakNum=8B98A9&amp;sideNums=8B98A9&amp;dates=8B98A9" alt="GitHub streak" />
 
 </div>
 
-<img src="./divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider.svg" />
+  <img src="./divider-light.svg" alt="" width="100%" />
+</picture>
 
 ## `06 / let's talk`
 
